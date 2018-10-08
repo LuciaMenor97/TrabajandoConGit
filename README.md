@@ -12,3 +12,9 @@ Práctica sobre GitHub propuesta en clase
 - Creación del fichero caracteristicas.html
 - Añadimos un menú en index.html para que nos de acceso a caracteristicas.html
 - Modificación del README
+
+# Versión 1.0.2
+- Creación de la rama development
+- Creación del fichero ordenesbasicas.html
+- Actualización del menú de index.html
+- Modificación del README
