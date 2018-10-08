@@ -18,3 +18,8 @@ Práctica sobre GitHub propuesta en clase
 - Creación del fichero ordenesbasicas.html
 - Actualización del menú de index.html
 - Modificación del README
+
+# Versión 1.0.3
+- Creación de la rama development a partir de la versión 1.0.1
+- Creación del fichero buenaspracticas.html
+- Modificación del README
